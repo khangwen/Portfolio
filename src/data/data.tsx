@@ -11,11 +11,11 @@ import {
 import GithubIcon from '../components/Icon/GithubIcon';
 import LinkedInIcon from '../components/Icon/LinkedInIcon';
 import heroImage from '../images/header-background.webp';
-import porfolioImage1 from '../images/portfolio/portfolio-1.jpg';
-import porfolioImage2 from '../images/portfolio/portfolio-2.jpg';
-import porfolioImage3 from '../images/portfolio/portfolio-3.jpg';
-import porfolioImage4 from '../images/portfolio/portfolio-4.jpg';
-import porfolioImage5 from '../images/portfolio/portfolio-5.jpg';
+import porfolioImage1 from '../images/portfolio/tunit.png';
+import porfolioImage2 from '../images/portfolio/kanban.png';
+import porfolioImage3 from '../images/portfolio/outerworld.png';
+import porfolioImage4 from '../images/portfolio/imath.png';
+import porfolioImage5 from '../images/portfolio/nguyentower.png';
 // import porfolioImage6 from '../images/portfolio/portfolio-6.jpg';
 // import porfolioImage7 from '../images/portfolio/portfolio-7.jpg';
 // import porfolioImage8 from '../images/portfolio/portfolio-8.jpg';
@@ -210,7 +210,7 @@ export const portfolioItems: PortfolioItem[] = [
   },
   {
     title: 'OuterWorld Delicacies',
-    description: 'Anime-themed food blog website. Used to perform performance testing via Selenium',
+    description: 'Anime-themed food blog website. Used for performance testing via Selenium',
     url: 'https://github.com/khangwen/Platform-Computing-Project',
     image: porfolioImage3,
   },
