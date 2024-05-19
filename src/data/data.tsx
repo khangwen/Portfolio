@@ -107,12 +107,12 @@ export const aboutData: About = {
   to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing
   in.`,
   aboutItems: [
-    { label: 'Location', text: 'Corona, CA', Icon: MapIcon },
-    { label: 'Age', text: '26', Icon: CalendarIcon },
-    { label: 'Nationality', text: 'American', Icon: FlagIcon },
-    { label: 'Interests', text: 'Hiking, Food, Gaming', Icon: SparklesIcon },
-    { label: 'Study', text: 'California State University, San Bernardino', Icon: AcademicCapIcon },
-    /*{ label: 'Employment', text: 'Instant Domains, inc.', Icon: BuildingOffice2Icon },*/
+    {label: 'Location', text: 'Corona, CA', Icon: MapIcon},
+    {label: 'Age', text: '26', Icon: CalendarIcon},
+    {label: 'Nationality', text: 'American', Icon: FlagIcon},
+    {label: 'Interests', text: 'Hiking, Food, Gaming', Icon: SparklesIcon},
+    {label: 'Study', text: 'California State University, San Bernardino', Icon: AcademicCapIcon},
+    /*{label: 'Employment', text: 'Instant Domains, inc.', Icon: BuildingOffice2Icon},*/
   ],
 };
 
@@ -353,6 +353,6 @@ export const contact: ContactSection = {
  * Social items
  */
 export const socialLinks: Social[] = [
-  { label: 'Github', Icon: GithubIcon, href: 'https://github.com/khangwen' },
-  { label: 'LinkedIn', Icon: LinkedInIcon, href: 'https://www.linkedin.com/in/alannguyen197/' },
+  {label: 'Github', Icon: GithubIcon, href: 'https://github.com/khangwen'},
+  {label: 'LinkedIn', Icon: LinkedInIcon, href: 'https://www.linkedin.com/in/alannguyen197/'},
 ];
