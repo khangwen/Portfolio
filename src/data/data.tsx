@@ -199,7 +199,7 @@ export const portfolioItems: PortfolioItem[] = [
     description: 
       'Music recommendation system that uses Spotify API to recommend songs based on user input.'
     ,
-    url: 'https://csusb.com',
+    url: 'https://github.com/khangwen/Kanban-Board',
     image: porfolioImage1,
   },
   {
