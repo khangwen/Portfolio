@@ -70,8 +70,8 @@ export const heroData: Hero = {
   description: (
     <>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        I'm a California based <strong className="text-stone-100">Computer Science major</strong>, currently studying
-        at <strong className="text-stone-100">CSUSB.</strong> I expect to graduate in <strong className="text-stone-100">May 2024</strong>.
+        I'm a California based <strong className="text-stone-100">Computer Science major</strong>, recently graduated
+        from <strong className="text-stone-100">CSUSB.</strong> I'm currently looking for work as a <strong className="text-stone-100">Software Developer</strong>.
       </p>
       {/* <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
         In my free time time, you can catch me training in <strong className="text-stone-100">Muay Thai</strong>,
@@ -79,7 +79,7 @@ export const heroData: Hero = {
         <strong className="text-stone-100">Vancouver Island</strong>.
       </p> */}
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        I expect to graduate in <strong className="text-stone-100">May 2024</strong> with a Bachelor of Science.
+        I graduated in <strong className="text-stone-100">May 2024</strong> with a Bachelor of Science.
       </p>
     </>
   ),
