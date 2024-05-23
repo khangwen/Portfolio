@@ -195,14 +195,14 @@ export const skills: SkillGroup[] = [
  * Portfolio section
  */
 export const portfolioItems: PortfolioItem[] = [
-  {
-    title: 'Tunit',
-    description: 
-      'Music recommendation system that uses Spotify API to recommend songs based on user input.'
-    ,
-    url: 'https://github.com/khangwen/Kanban-Board',
-    image: porfolioImage1,
-  },
+  // {
+  //   title: 'Tunit',
+  //   description: 
+  //     'Music recommendation system that uses Spotify API to recommend songs based on user input.'
+  //   ,
+  //   url: 'https://github.com/khangwen/Kanban-Board',
+  //   image: porfolioImage1,
+  // },
   {
     title: 'Kanban Board Website',
     description: 'Kanban board website that allows users to create, edit, and delete tasks.',
